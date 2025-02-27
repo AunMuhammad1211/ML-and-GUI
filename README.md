@@ -20,7 +20,7 @@ Clone the repository
 
 To run this application, install the required dependencies:
 ```bash
-pip install streamlit, pandas, matplotlib, seaborn
+pip install streamlit pandas matplotlib seaborn scikit-learn
 ```
 
 How to run the application
