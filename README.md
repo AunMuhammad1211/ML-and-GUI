@@ -9,21 +9,31 @@ This is a **Streamlit-based web application** that predicts student dropout prob
 - **Handles Data Preprocessing** (Label Encoding, Missing Columns Check).
 - **Trains a Random Forest Model** for classification.
 - **User-Friendly Input Interface** for making predictions.
+
+## Installation and Working
+
 Clone the repository
-```bash
-git clone https://github.com/AunMuhammad1211/ML-and-GUI
 
-## Installation
+```bash
+  git clone https://github.com/AunMuhammad1211/ML-and-GUI
+```
+
 To run this application, install the required dependencies:
-
 ```bash
-pip install streamlit pandas matplotlib seaborn scikit-learn
+pip install streamlit, pandas, matplotlib, seaborn
+```
 
-## **How to run the app**
-To run the app we use the command:
-
+How to run the application
 ```bash
 streamlit run app.py
+```
+
+
+
+
+
+
+
 
 
 
