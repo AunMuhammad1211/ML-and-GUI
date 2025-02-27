@@ -35,7 +35,7 @@ Make Predictions: Users can enter student details via the UI to predict outcomes
 Visualize Target Distribution: The app displays a bar chart of student status categories.
 
 ## App Interface
-This app comprise of two two sections:
+This app comprises of two sections:
 
 Prediction Page: Enter student data and click "Predict" to see the result.
 ![image](https://github.com/user-attachments/assets/1ded9ade-2951-4ac0-a87b-0c59b9b39916)
